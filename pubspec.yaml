@@ -39,6 +39,21 @@ dependencies:
   cloud_firestore: ^4.15.0
   uuid: ^4.4.0
   crypto: ^3.0.3
+  shared_preferences: ^2.2.2
+  image_picker:
+  firebase_storage:
+  record: ^6.1.2
+  path_provider:
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  connectivity_plus: ^6.0.3
+  geolocator: ^11.1.0
+  geocoding: ^3.0.0
+  audioplayers: ^5.2.1
+  provider: ^6.1.2
+
+
+
 
 dev_dependencies:
   flutter_test:
@@ -92,3 +107,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+
